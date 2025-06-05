@@ -1,1 +1,5 @@
-
+title: 我的博客
+description: 欢迎来到我的技术博客
+theme: minima  # 使用 GitHub 默认支持的 Jekyll 主题
+plugins:
+  - jekyll-feed  # 启用 RSS 订阅
